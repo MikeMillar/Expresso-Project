@@ -233,25 +233,4 @@ employeesRouter.delete('/:id/timesheets/:timesheetId', (req, res, next) => {
   })
 });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 module.exports = employeesRouter;
